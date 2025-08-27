@@ -1,1 +1,1 @@
-https://github.com/VonagasRoge/ono-tebe-nado-fd
+https://github.com/VonagasRoge/posmotri-v-okno-fd
